@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "854F93CE-89A3-4AC0-AC04-66C77569AFB5",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "joplin-plugin-blog-publish",
+	"description": "joplin-plugin-blog-publish",
+	"author": "mengkai",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
